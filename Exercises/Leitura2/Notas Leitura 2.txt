@@ -1,0 +1,35 @@
+
+Comece pelo paper de 2017 e faça anotações:
+1) para que serve um sistema de gerenciamento de workflow?
+
+São sistemas que buscam analisar recursos distribuídos de processamento de dados (workflow).
+
+2) como ele ajuda a garantir a reprodutibilidade?
+
+Através de conjuntos de critérios para a qualificação dos sistemas que permitem reprodutibilidade.
+
+3) quais as características desejadas de um sistema de gerenciamento de workflow?
+
+- manutenção de modelos de execução de workflows
+- habilidade de serem executados em ambientes computacionais heterogêneos.
+- manutenção de métodos de acesso a dados.
+
+4) quais os desafios ainda não resolvidos com relação a workflow e reprodutibilidade
+
+Fazer com que workflows sejam mais facilmente compreendidos por usuários típicos que não são experts em notação/conceitos de computação.
+
+
+
+Em seguida, leia o paper de 2022 e anote principalmente:
+1) afirmações que reforçam conceitos e conclusões do paper de 2017;
+
+
+
+
+2) afirmações que contradizem ou são muito distintas das do paper de 2017;
+
+
+
+
+3) os desafios continuam os mesmos ou são novos? Em caso afirmativo, comente se os desafios antigos foram resolvidos e liste os novos desafios.
+
